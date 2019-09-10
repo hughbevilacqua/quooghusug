@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://koegouhooy.cnfeat.com/sitemap.xml
